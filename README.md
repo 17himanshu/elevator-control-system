@@ -45,7 +45,7 @@ The elevator control system is implemented as a Moore Machine with states repres
 
 ### State Diagram
 
-![State Diagram][WhatsApp Image 2024-07-09 at 12 18 41_4bb27352](https://github.com/17himanshu/elevator-control-system/assets/96365482/8e5d369d-6c27-4dc4-aac2-bce3df8eb37a)
+![WhatsApp Image 2024-07-09 at 12 18 41_4bb27352](https://github.com/17himanshu/elevator-control-system/assets/96365482/8e5d369d-6c27-4dc4-aac2-bce3df8eb37a)
 
 
 ## Future Enhancements
